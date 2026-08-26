@@ -2,6 +2,8 @@
 
 I'm a **Staff Engineer & Technical Leader** at [Smile.io](https://smile.io/).
 
+Find me in Vancouver, BC, Canada, or on the internet at [matthennessy.ca](https://matthennessy.ca).
+
 My roots are in backend engineering, but I tend to think about technology as part of a much bigger picture: the business, the people using it, and the folks building it. I like understanding *why* we're solving a problem before deciding *how*, thinking in systems, and doing good work without making the people doing it miserable.
 
 If you want to know more:
