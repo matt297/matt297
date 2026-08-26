@@ -6,11 +6,11 @@ My roots are in backend engineering, but I tend to think about technology as par
 
 If you want to know more:
 
-- 🧠 **[How I think about engineering](engineering.md)** — how I approach complex problems, architecture, scope, and shipping
-- 🤝 **[Working with me](working-with-me.md)** — how I communicate, collaborate, make decisions, and help teams move
-- 🛠️ **[Things I like building](building-things.md)** — Rails, APIs, developer experience, and backend systems
-- 🧭 **[How I got here](background.md)** — from a 12-year-old PHP tinkerer to psychology student, teacher, and technical leader
-- 🏺 **[Outside the code](outside-the-code.md)** — pottery, cooking, bubble tea, urban design, and other important matters
+- 🧠 **[How I think about engineering](engineering.md)**
+- 🤝 **[What to expect when working with me](working-with-me.md)**
+- 🛠️ **[Things I like building](building-things.md)**
+- 🧭 **[How I got here](background.md)**
+- 🏺 **[Who I am outside the code](outside-the-code.md)**
 
 > **Engineer by trade. Psychologist by training. Educator at heart.**
 >
