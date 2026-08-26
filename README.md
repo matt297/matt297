@@ -1,18 +1,16 @@
-# Hi, I'm Matt 👋
+# Hey, I'm Matt 👋
 
-I'm a Staff Engineer & Technical Leader at [Smile.io](https://smile.io/).
+I'm a **Staff Engineer & Technical Leader** at [Smile.io](https://smile.io/).
 
-I'm interested in the intersection of **technology and people** — building good software, helping engineers grow, and figuring out how teams can make better technical decisions together.
+I'm a backend engineer who tends to think about technology as part of a much bigger picture: the business, the people using it, and the folks building it. I like understanding *why* we're solving a problem before deciding *how*, thinking in systems, and doing good work without making the people doing it miserable.
 
-I'm a backend engineer at heart and am currently focused on Ruby on Rails, APIs, SDKs, integrations, and developer experience. Also, fair warning: I care an unreasonable amount about documentation, shared understanding, and making complicated things easier to reason about.
+If you want to know more:
 
-A few things you might want to know:
-
-- 🧠 **[How I think about engineering](./engineering.md)** — what I care about when building software and making technical decisions
-- 🤝 **[Working with me](./working-with-me.md)** — what collaboration with me tends to look like
-- 🛠️ **[Things I like building](./technical.md)** — Rails, APIs, SDKs, developer experience, UX, and AI-assisted development
-- 🧭 **[How I got here](./background.md)** — the slightly non-linear path from self-taught programmer to technical leadership
-- 🏺 **[Outside the code](./outside-the-code.md)** — pottery, baking, bubble tea, cycling, urban design, and other things I apparently have opinions about
+- 🧠 **[How I think about engineering](engineering.md)** — how I approach complex problems, architecture, scope, and shipping
+- 🤝 **[Working with me](working-with-me.md)** — how I communicate, collaborate, make decisions, and help teams move
+- 🛠️ **[Things I like building](building-things.md)** — Rails, APIs, developer experience, and backend systems
+- 🧭 **[How I got here](background.md)** — from a 12-year-old PHP tinkerer to psychology student, teacher, and technical leader
+- 🏺 **[Outside the code](outside-the-code.md)** — pottery, cooking, bubble tea, urban design, and other important matters
 
 > **Engineer by trade. Psychologist by training. Educator at heart.**
 >
