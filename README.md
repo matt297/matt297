@@ -1,8 +1,6 @@
 # Hey, I'm Matt 👋
 
-I'm a **Staff Engineer & Technical Leader** at [Smile.io](https://smile.io/).
-
-Find me in Vancouver, BC, Canada, or on the internet at [matthennessy.ca](https://matthennessy.ca).
+I'm a **Staff Engineer & Technical Leader** at [Smile.io](https://smile.io/), based in Vancouver, Canada 🇨🇦
 
 My roots are in backend engineering, but I tend to think about technology as part of a much bigger picture: the business, the people using it, and the folks building it. I like understanding *why* we're solving a problem before deciding *how*, thinking in systems, and doing good work without making the people doing it miserable.
 
@@ -16,4 +14,4 @@ If you want to know more:
 
 > **Engineer by trade. Psychologist by training. Educator at heart.**
 >
-> Still trying to understand how everything works.
+> _Find me on the internet at [matthennessy.ca](https://matthennessy.ca)_
