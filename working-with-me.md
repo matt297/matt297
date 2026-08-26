@@ -67,7 +67,9 @@ That's usually intentional.
 
 I prefer feedback that's:
 
-**Timely · Specific · Actionable**
+- timely
+- specific
+- actionable
 
 Tell me what happened. Give me an example. Tell me what you think I could do differently.
 
